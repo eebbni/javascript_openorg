@@ -1,0 +1,26 @@
+{
+  "name": "javascript_openorg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0406.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eebbni/javascript_openorg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eebbni/javascript_openorg/issues"
+  },
+  "homepage": "https://github.com/eebbni/javascript_openorg#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
