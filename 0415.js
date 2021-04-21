@@ -11,9 +11,9 @@ function code(){
     hour++;
     console.log(hour);
 }
+module.exports={code};
 
-module.exports={hour,code};
-
+// const test = {hour,code};
 // module.exports = {
 //     hour : 0,
 //     code : function() {

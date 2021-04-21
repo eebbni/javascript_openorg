@@ -9,12 +9,15 @@
 // const {code} = require('./0415.js');
 // code();
 
-// const you = require('./0415.js');
-// you.code();
+const you = require('./0415.js');
+you.code();
 
 const {code} = require('./0415.js');
+//console.log(code);
+//console.log(hour);
 code();
-
 // const Cat11 = require('./0415.js');
 // const dog = new Cat11("야옹");
 // dog.sleep();
+
+// async await
